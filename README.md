@@ -1,9 +1,8 @@
 # Hi, I'm Rafael Valoto 👋
 
 <div align="center">
-  
-  <img src="https://github-readme-stats-9r8fvhhvy-rafaelvalotos-projects.vercel.app/api?v=2&username=rafaelvaloto&show_icons=true&theme=vision-friendly-dark" alt="Rafael's GitHub stats" />
-  <img src="https://github-readme-stats-9r8fvhhvy-rafaelvalotos-projects.vercel.app/api/top-langs?v=2&username=rafaelvaloto&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-theta-sage-66.vercel.app/api?username=rafaelvaloto&show_icons=true&theme=vision-friendly-dark" alt="Rafael's GitHub stats" />
+  <img src="https://github-readme-stats-theta-sage-66.vercel.app/api/top-langs/?username=rafaelvaloto&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 <br>
