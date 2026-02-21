@@ -20,10 +20,6 @@ Currently, I am developing a new library to make animation creation easier throu
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </p>
 
-* **Game Development:** Unreal Engine (5.x), Control Rig, Procedural Animation
-* **Machine Learning & AI:** LibTorch (PyTorch C++)
-* **Architecture & Patterns:** Policy-based Design, NDA-Safe Architecture
-
 ## 🧠 Featured Projects
 
 * **[Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig):** An AI-driven procedural animation library combining Unreal Engine's Control Rig with PyTorch's C++ library (LibTorch).
