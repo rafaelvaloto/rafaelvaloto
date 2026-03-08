@@ -73,48 +73,6 @@ Here are some of my top repositories — highlights of my work on device integra
   - Description: Responsive and dynamic overlay widget with DualSense & DualShock4 support for Unreal Engine projects.  
   - Primary language: C++  
 
-(Each project includes full docs and examples — check the repos for setup, platform notes and contributions.)
-
-## GitHub Stats
-
-Quick stats:
-
-- Public repositories: **13**  
-- Followers: **23**  
-- Following: **39**  
-- GitHub since: **2014-02-10**
-
-Badges & cards:
-
-- ![Followers](https://img.shields.io/github/followers/rafaelvaloto?label=Followers&style=flat-square)  
-- ![Repos](https://img.shields.io/badge/repos-13-blue?style=flat-square)  
-- GitHub stats card:  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvaloto&layout=compact)
-
-- Full activity / contributions:  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=rafaelvaloto&show_icons=true&count_private=true)
-
-## Recent Activity
-
-Recent highlights from my GitHub activity (most recent first):
-
-1. 🟢 Push to **Neura-Rig** — updated main branch with new changes. (2026-03-08)  
-   - Repo: [Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig)  
-
-2. 💬 Commented on issue in **Unreal-Dualsense** addressing a packaging/linker conflict and plan to namespace exported classes. (2026-03-07)  
-   - Repo: [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense)  
-
-3. 🔀 Merged a PR upstream to **muparser** (contribution via fork). (2026-03-07)  
-   - Repo: [beltoforion/muparser](https://github.com/beltoforion/muparser)  
-
-4. 🟢 Push to **Neura-Rig** (previous push). (2026-03-07)  
-   - Repo: [Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig)  
-
-5. ✅ Closed & managed multiple issues on **Unreal-Dualsense** (help with feature requests, macOS testing, haptic audio troubleshooting). (2026-03-06)  
-   - Repo: [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense)
-
-For full activity and timelines, see my GitHub profile: https://github.com/rafaelvaloto
-
 ## Latest Blog Posts
 
 I don't have a public blog linked on my GitHub profile. If you'd like longer-form writeups, I occasionally publish technical notes and release notes in repository READMEs and release pages.  
