@@ -83,9 +83,8 @@ If you maintain a mirror or want to request a write-up, ping me on LinkedIn: htt
 
 Let's connect — I welcome collaboration, bug reports and contributions.
 
-- 🐙 GitHub: [rafaelvaloto](https://github.com/rafaelvaloto)  
-- 💼 LinkedIn: [rafaelvaloto](https://www.linkedin.com/in/rafaelvaloto/)  
-- 📨 Email: (not publicly listed) — please use GitHub Issues or LinkedIn to reach out  
+- 🐙 GitHub: [rafaelvaloto](https://github.com/rafaelvaloto)
+- 💼 LinkedIn: [rafaelvaloto](https://www.linkedin.com/in/rafaelvaloto/)
 
 Badges:
 
