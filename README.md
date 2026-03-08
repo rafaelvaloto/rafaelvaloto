@@ -15,7 +15,7 @@ Tagline: Building robust, cross-platform DualSense integrations and real-time ga
 
 ## Skills & Technologies
 
-cpp,c,cmake,git,github,pytorch,unreal,godot,linux,windows,raspberrypi
+
 
 ## Top Projects
 
