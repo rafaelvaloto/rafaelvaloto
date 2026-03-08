@@ -13,9 +13,8 @@ Tagline: Building robust, cross-platform DualSense integrations and real-time ga
 • Open-source & community: Author and maintainer of widely used DualSense plugins and cross-platform libraries. I also contribute upstream (example: merged PRs to muparser).  
 • GitHub: active since **2014** — focused on quality code, cross-platform builds, and practical documentation to help other developers ship faster.
 
-## Skills & Technologies
-
 ---
+## Skills & Technologies
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
