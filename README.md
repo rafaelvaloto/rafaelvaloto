@@ -21,30 +21,21 @@ cpp,c,cmake,git,github,pytorch,unreal,godot,linux,windows,raspberrypi
 
 Here are some of my top repositories — highlights of my work on device integration, engine plugins and ML-driven animation.
 
-- [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense) ⭐ 102
-  - Description: Plugin with full support for the DualSense & DualShock 4 for Unreal Engine. No configuration needed.  
-  - Primary language: C++  
-  - Stats: forks: 20 • watchers: 102 • open issues: 3  
-
-- [Dualsense-Multiplatform](https://github.com/rafaelvaloto/Dualsense-Multiplatform) ⭐ 16
-  - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
-  - Primary language: C++  
-  - Stats: forks: 3 • watchers: 16 • open issues: 0  
-
-- [Gamepad-Overlay-Unreal](https://github.com/rafaelvaloto/Gamepad-Overlay-Unreal) ⭐ 16
-  - Description: Responsive and dynamic overlay widget with DualSense & DualShock4 support for Unreal Engine projects.  
-  - Primary language: C++  
-  - Stats: forks: 3 • watchers: 16 • open issues: 0  
-
-- [Godot-Dualsense](https://github.com/rafaelvaloto/Godot-Dualsense) ⭐ 3
-  - Description: GDExtension for Godot 4.x providing native Sony controller support via HID — unlocks adaptive triggers, haptics and lightbar control.  
-  - Primary language: C++  
-  - Stats: forks: 1 • watchers: 3 • open issues: 0  
-
-- [Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig) ⭐ 2
+- [Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig)
   - Description: Procedural animation generation and Neural Motion Matching guided by ML (LibTorch).  
   - Primary language: C++  
-  - Stats: forks: 0 • watchers: 2 • open issues: 0
+
+- [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense) 
+  - Description: Plugin with full support for the DualSense & DualShock 4 for Unreal Engine. No configuration needed.  
+  - Primary language: C++ 
+
+- [Dualsense-Multiplatform](https://github.com/rafaelvaloto/Dualsense-Multiplatform) 
+  - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
+  - Primary language: C++
+
+- [Gamepad-Overlay-Unreal](https://github.com/rafaelvaloto/Gamepad-Overlay-Unreal) 
+  - Description: Responsive and dynamic overlay widget with DualSense & DualShock4 support for Unreal Engine projects.  
+  - Primary language: C++  
 
 (Each project includes full docs and examples — check the repos for setup, platform notes and contributions.)
 
