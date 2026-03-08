@@ -86,12 +86,6 @@ Let's connect — I welcome collaboration, bug reports and contributions.
 - 🐙 GitHub: [rafaelvaloto](https://github.com/rafaelvaloto)
 - 💼 LinkedIn: [rafaelvaloto](https://www.linkedin.com/in/rafaelvaloto/)
 
-Badges:
-
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)  
-- ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)
-
 Currently working on: Neura-Rig (ML-driven animation) and ongoing maintenance & improvements across the DualSense ecosystem (Unreal, Godot, cross-platform C++ library). 🚧
-
 
 Generate By https://www.gitdevtool.com/profile
