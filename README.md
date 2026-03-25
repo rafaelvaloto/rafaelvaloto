@@ -1,17 +1,12 @@
 ## Hi there! 👋
 
-Hi — I'm **rafaelvaloto**, a C++ game developer and systems engineer focused on game input, haptics and runtime tooling. 🎮
-
-Tagline: Building robust, cross-platform DualSense integrations and real-time game systems in C++ — from firmware & device layers to engine plugins and ML-driven animation systems. 🚀
+Hi — I'm **rafaelvaloto**, a C++ game developer and systems engineer. 🎮
 
 ## About Me
 
 • Name: **rafaelvaloto**  
 • Role: Game developer, C++ engineer, open-source maintainer  
-• Location: Curitiba, PR, Brasil 🇧🇷  
-• Bio: "Gamer developer C++" — I build engine-agnostic gamepad frameworks, plugins for Unreal & Godot, and tooling that connects hardware with game engines.  
-• Open-source & community: Author and maintainer of widely used DualSense plugins and cross-platform libraries. I also contribute upstream (example: merged PRs to muparser).  
-• GitHub: active since **2014** — focused on quality code, cross-platform builds, and practical documentation to help other developers ship faster.
+• Location: Curitiba, PR, Brasil 🇧🇷
 
 ---
 ## Skills & Technologies
@@ -58,6 +53,10 @@ Here are some of my top repositories — highlights of my work on device integra
 
 - [Neura-Rig](https://github.com/rafaelvaloto/Neura-Rig)
   - Description: Procedural animation generation and Neural Motion Matching guided by ML (LibTorch).  
+  - Primary language: C++
+
+- [Neura-Rig-Unreal](https://github.com/rafaelvaloto/Neura-Rig-Unreal)
+  - Description: Neura RIG is an Unreal Engine plugin designed for Neural Motion Matching and procedural animation. It provides efficient tools for character rigging and animation control.
   - Primary language: C++  
 
 - [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense) 
