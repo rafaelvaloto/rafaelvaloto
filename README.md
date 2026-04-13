@@ -56,5 +56,6 @@ Here are some of my top repositories.
 
 ## Connect with Me
 
-- ✉  Mail: rafaelvaloto@gmail.com
 - 🔗 LinkedIn: [rafaelvaloto](https://www.linkedin.com/in/rafaelvaloto/)
+- ✉  Mail: rafaelvaloto@gmail.com
+
