@@ -50,9 +50,9 @@ Here are some of my top repositories.
   - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
   - Primary language: C++
 
-- [Gamepad-Overlay-Unreal](https://github.com/rafaelvaloto/Gamepad-Overlay-Unreal) 
-  - Description: Responsive and dynamic overlay widget with DualSense & DualShock4 support for Unreal Engine projects.  
-  - Primary language: C++  
+- [Pico_W-Dualsensel](https://github.com/rafaelvaloto/Pico_W-Dualsense) 
+  - Description: This project is a C/C++ firmware for the Raspberry Pi Pico W that establishes a full-featured Bluetooth Classic connection with the Sony DualSense (PS5) controller.
+  - Primary language: C/C++
 
 ## Connect with Me
 
