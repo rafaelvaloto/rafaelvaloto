@@ -50,7 +50,7 @@ Here are some of my top repositories.
   - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
   - Primary language: C++
 
-- [Pico_W-Dualsensel](https://github.com/rafaelvaloto/Pico_W-Dualsense) 
+- [Pico_W-Dualsense](https://github.com/rafaelvaloto/Pico_W-Dualsense) 
   - Description: This project is a C/C++ firmware for the Raspberry Pi Pico W that establishes a full-featured Bluetooth Classic connection with the Sony DualSense (PS5) controller.
   - Primary language: C/C++
 
