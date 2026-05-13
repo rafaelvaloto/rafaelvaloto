@@ -44,7 +44,10 @@ Here are some of my top repositories.
 
 - [Unreal-Dualsense](https://github.com/rafaelvaloto/Unreal-Dualsense) 
   - Description: Plugin with full support for the DualSense & DualShock 4 for Unreal Engine. No configuration needed.  
-  - Primary language: C++ 
+  - Primary language: C++
+    
+- [Unreal-Dualsense Gold Edition](https://github.com/rafaelvaloto/Unreal-Dualsense-Gold-Edition) 
+  - Unreal-DualSense Gold Edition plugin. This project demonstrates the high-fidelity haptic feedback and audio-to-vibration capabilities of the plugin, fully supporting Bluetooth connections.
 
 - [Dualsense-Multiplatform](https://github.com/rafaelvaloto/Dualsense-Multiplatform) 
   - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
