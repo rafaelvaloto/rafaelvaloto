@@ -38,21 +38,9 @@ Hi — I'm **rafaelvaloto**, a C++ game developer and systems engineer. 🎮
 
 ---
 
-## Top Projects
-
-Here are some of my top repositories.
-
 - [Middleware-Unreal-Dualsense pro](https://unreal-dualsense-pro.valoto.games/)
   - Description: Plugin with full support for the DualSense & DualShock 4 for Unreal Engine. No configuration needed.  
   - Primary language: C++
-
-- [Dualsense-Multiplatform](https://github.com/rafaelvaloto/Dualsense-Multiplatform) 
-  - Description: The ultimate cross-platform DualSense / DualShock API. Pure C++ • Zero dependencies • Engine-agnostic framework.  
-  - Primary language: C++
-
-- [Respbarry Pico W (Dualsense)](https://github.com/rafaelvaloto/Pico_W-Dualsense) 
-  - Description: This project is a C/C++ firmware for the Raspberry Pi Pico W that establishes a full-featured Bluetooth Classic connection with the Sony DualSense (PS5) controller.
-  - Primary language: C/C++
 
 ## Connect with Me
 
